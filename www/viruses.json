@@ -11,11 +11,11 @@
 
     {
         "name" : "Measles",
-        "virulence" : 0.5,
+        "virulence" : 0.9,
         "incubation" : 2,
-        "infection" : 5,
-        "lethality" : 0.1,
-        "vaccination" : 0.4,
+        "infection" : 2,
+        "lethality" : 0.03,
+        "vaccination" : 0.8,
         "quarantine" : true
     },
 
